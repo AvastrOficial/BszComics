@@ -1,6 +1,7 @@
 # 📚 BszComics API – Sistema de Carga y Visualización de Cómics
 
 La **API de BszComics** permite integrar un sistema completo de búsqueda, filtrado y visualización de cómics en cualquier sitio web usando solo HTML, CSS y un script externo.
+Las Fotos Es Una Plataforma https://ver-comics-porno.com Librerias Completas 2026
 
 Incluye:
 - 🔍 Barra de búsqueda
